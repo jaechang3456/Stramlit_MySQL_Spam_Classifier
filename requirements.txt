@@ -3,3 +3,8 @@ pillow
 mysql-connector-python
 seaborn
 scikit-learn
+tensorflow
+urllib
+h5py
+wordcloud
+pickle
