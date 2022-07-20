@@ -1,3 +1,4 @@
 matplotlib
 pillow
 mysql-connector-python
+seaborn
